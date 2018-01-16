@@ -1,0 +1,7 @@
+RandomForest : 0.7873417721518987
+logisticRegression : 0.7873417721518987
+linearSVM : 0.7873417721518987
+NaiveBayes: 0.8
+GradientBoostingTree : 0.7772151898734178
+DecisionTree : 0.7645569620253164
+
